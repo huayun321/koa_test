@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/huayun321/koa_test#readme",
   "dependencies": {
-    "koa": "^1.2.4"
+    "koa": "^1.2.4",
+    "mongodb": "^2.2.11"
   }
 }
